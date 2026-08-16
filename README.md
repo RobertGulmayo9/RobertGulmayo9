@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Robert.
 
 <!--
-**RobertGulmayo9/RobertGulmayo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Undergraduate Student and aspiring cybersecurity professional. I focus on turning my academic learning into practical skills through web projects, software creation and game scripting.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on
+- Education: Currently pursuing my Bachelors Degree in Computer Science/IT.
+- Side Projects: Developing mods for Deadlock to master JavaScript logic outside the classroom.
+- Goal: Building a strong foundation in software development, and full-stack web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ Technical Stack
+- Languages: HTML5, CSS3, JavaScript, Python, C++, C#
+- Tools: Google Antigravity, Claude Code, Codex, CSDK 
+
+📬 Reach Out
+- Email: gulmayorobert9@gmail.com
+
 -->
