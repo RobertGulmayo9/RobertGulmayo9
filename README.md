@@ -1,6 +1,6 @@
 ## Hi, I'm Robert.
 
-<!--
+
 I am a Undergraduate Student and aspiring cybersecurity professional. I focus on turning my academic learning into practical skills through web projects, software creation and game scripting.
 
 🔭 I’m currently working on
@@ -15,4 +15,4 @@ I am a Undergraduate Student and aspiring cybersecurity professional. I focus on
 📬 Reach Out
 - Email: gulmayorobert9@gmail.com
 
--->
+
